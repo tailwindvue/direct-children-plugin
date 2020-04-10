@@ -1,0 +1,32 @@
+{
+    "version": "1.0.0",
+    "name": "@tailwindvue/direct-children-plugin",
+    "description": "A Tailwind CSS plugin to add a direct children variant to Tailwind CSS utilities.",
+    "license": "MIT",
+    "author": "Carl Cassar <hello@carlcassar.com>",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "private": false,
+    "devDependencies": {
+        "jest": "^25.3.0",
+        "jest-matcher-css": "^1.1.0",
+        "postcss": "^7.0.27",
+        "tailwindcss": "^1.2.0"
+    },
+    "keywords": [
+        "Tailwind CSS",
+        "Plugin"
+    ],
+    "publishConfig": {
+        "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tailwindvue/direct-children-plugin"
+    },
+    "bugs": {
+        "url": "https://github.com/tailwindvue/direct-children-plugin/issues"
+    }
+}
