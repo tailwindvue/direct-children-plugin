@@ -1,5 +1,7 @@
 # Direct Children Variant Plugin for Tailwind CSS
 
+![Tests Badge](https://github.com/tailwindvue/direct-children-plugin/workflows/Tests/badge.svg?branch=master)
+
 ## Requirements
 
 This plugin was created for and tested with Tailwind CCS `v1.2.0` and greater.
