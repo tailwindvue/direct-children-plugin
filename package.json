@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "0.1.0",
     "name": "@tailwindvue/direct-children-plugin",
     "description": "A Tailwind CSS plugin to add a direct children variant to Tailwind CSS utilities.",
     "license": "MIT",
